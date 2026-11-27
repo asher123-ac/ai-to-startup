@@ -40,3 +40,6 @@ Risks that apply on relying on them is that the student accounts would need to b
 ## 6. Risks and ethics
 
 Restaurants are responsible that they are selling food that is still good to eat so restaurants would be responsible that the deals that are posted are still safe for people to eat, the platform would have to make sure that they respond to certain reports of unsafe food. students information can be hacked or leaked which is why payment needs to be secure and not much information is used. a restaurant could post a deal that is unavailable or sold out which is not accurate, restaurants would have to ensure that what they post is updated real time and remove what's sold out. Students may rely on the platform for a cheap meal every time whether or not if they know if it will be available, so the platform would have to make sure that nothing is guaranteed and it can sell out at any time.
+
+
+I used ChatGPT to help simplify the questions throughout the business case.
